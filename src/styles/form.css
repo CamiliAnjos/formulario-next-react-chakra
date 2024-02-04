@@ -1,0 +1,21 @@
+.Form {
+  height: 70%;
+  width: 60%;
+  position: absolute;
+  margin-top: 12%;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  color: green;
+  font-size: 32px;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  border-bottom: 1px solid gray;
+}

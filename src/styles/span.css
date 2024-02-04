@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;800&display=swap");
+
+h1 {
+  color: #ff6b00;
+  /* border: 2px solid green; */
+  display: inline-block;
+  font-weight: bolder;
+  padding: 80px 0 0 70px;
+  font-family: "Inter", "sans-serif";
+}
